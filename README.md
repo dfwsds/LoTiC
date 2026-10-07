@@ -68,10 +68,10 @@ not duplicated in the checkpoint files.
 
 | Dataset | Backbone | Mean future-domain accuracy |
 |---|---|---:|
-| Rotating 2-Moons | DistilBERT | 99.10% |
-| Rotating 2-Moons | Qwen3-0.6B | 94.80% |
-| Rotating 2-Moons | LLaMA-3-8B | 99.70% |
-| Rotated MNIST | DINOv2-B | 93.20% |
+| Rotating 2-Moons | DistilBERT | 99.60% |
+| Rotating 2-Moons | Qwen3-0.6B | 98.30% |
+| Rotating 2-Moons | LLaMA-3-8B | 99.30% |
+| Rotated MNIST | DINOv2-B | 92.30% |
 | Rotated MNIST | DINOv2-L | 93.80% |
 
 The values above are produced by the executed notebooks in this repository.
